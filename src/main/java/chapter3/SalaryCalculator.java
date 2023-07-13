@@ -30,11 +30,11 @@ public class SalaryCalculator {
             int salary = minimalPayment + additionalBonus;
             System.out.println(" Congratulation you got bonus with your weekly salary is $: " + salary);
 
-        } else {
+        }else
             System.out.println("you only got your weekly salary amount is $" + minimalPayment);
 
 
-        }
+
 
 
     }
